@@ -1,0 +1,17 @@
+naca 4412
+pane
+OPER
+ITER 100 
+visc
+300000
+Mach
+0.10667
+PACC 
+polar.txt 
+
+a3
+CPWR 
+naca4412
+
+ 
+ quit
